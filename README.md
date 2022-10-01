@@ -6,4 +6,4 @@ Currently, I am working as a Consultant at Netcompany, where I am part of the Co
 
 I studied a MSc in Computer Science and Engineering at Technical University of Denmark (DTU), where I focused on Embedded and Distributed Systems.
 
-In my freetime you will find me working on small Software projects.
+In my freetime you will find me working on different projects, some of which you can see below.
