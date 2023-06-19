@@ -1,8 +1,8 @@
 ### Greetings traveler!
 
-I'm Magnus, a Software Engineer interested in Software Architecture, Modelling and Coding. You can make me talk endlessly by discussing technical tradeoff, architectural dilemmaes or coding challenges.
+I'm Magnus, a Senior Software Architect/Engineer interested in coding anything software related. You can make me talk endlessly by discussing technical tradeoff, architectural dilemmaes or coding challenges.
 
-Currently, I am working as a Consultant at Netcompany, where I am part of the Core Team for developing a Grant Management Platform.
+Currently, I am working as a Senior Architect at Netcompany, where I work on different projects to deliever software to our customers.
 
 I studied a MSc in Computer Science and Engineering at Technical University of Denmark (DTU), where I focused on Embedded and Distributed Systems.
 
