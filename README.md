@@ -1,9 +1,9 @@
 ### Greetings, traveler!
 
-I'm Magnus, a Software Engineer with a deep passion for coding and software development. I love discussing technical trade-offs, architectural dilemmas, and coding challenges.
+Check out my blog: [mhh.dev](https://mhh.dev/)
 
-Currently, I work as a Senior Architect at Netcompany, leading various projects to deliver high-quality software solutions to our clients.
+Looking for my Advent of Code solutions: [2023](https://github.com/HHMagnus/AdventOfCode2023) [2022](https://github.com/HHMagnus/AdventOfCode2022) [2021](https://github.com/HHMagnus/AdventOfCode2021) [2020](https://github.com/HHMagnus/AdventOfCode2020)
 
-I earned an MSc in Computer Science and Engineering from the Technical University of Denmark (DTU), with a focus on distributed systems.
+[WASM PDF Merger](https://hhmagnus.github.io/PDFMerge/)
 
-In my free time, I enjoy working on personal projects, some of which you can explore below.
+[The speedrunning leaderboard](https://hhmagnus.github.io/WFBoard/game.html?game=wf)
