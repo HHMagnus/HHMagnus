@@ -6,6 +6,7 @@ Looking for my Advent of Code solutions: [2025](https://github.com/HHMagnus/Adve
 Or [Everybody.codes solutions](https://github.com/HHMagnus/EverybodyCodes)
 
 **Projects:**
+- [Java Serializable Optional](https://github.com/HHMagnus/Java-Serializable-Optional)
 - [Java Result<T, E> library](https://github.com/HHMagnus/Java-Result)
 - [Java library for cloning entities between PostgreSQL databases](https://github.com/HHMagnus/PostgresqlJavaEntityCloner)
 - [Offline (WASM) MP4 Converter](https://mp4convert.mhh.dev/)
